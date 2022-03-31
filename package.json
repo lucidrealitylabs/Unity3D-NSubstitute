@@ -18,5 +18,8 @@
     "name": "Christiaan Bloemendaal",
     "email": "unity3d@tnrd.net",
     "url": "https://www.tnrd.net"
+  },
+  "dependencies": {
+    "com.unity.code-analysis": "0.1.2-preview"
   }
 }
